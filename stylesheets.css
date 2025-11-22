@@ -1,17 +1,6 @@
-body{
-background-image: url(secret.png);
-
-
-}
-h1{
-color: black;
-font-size: xx-large;
-
-}
-/* GENERAL PAGE STYLING */
 body {
   font-family: 'Fredoka', sans-serif;
-  background-image: url('Minecraft Background (For Minecraft Page).png');
+  background-image: url('secret.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -70,6 +59,8 @@ section {
 h1, h2, p {
   margin-bottom: 20px;
   border-radius: 12px;
+  color: black;
+  font-size: xx-large;
 }
 
 /* IMAGES */
@@ -81,3 +72,4 @@ img {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
 }
  
+
