@@ -1,6 +1,6 @@
 body {
   font-family: 'Fredoka', sans-serif;
-  background-image: url('secret.png');
+  background-image: url('Secret Background.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -72,4 +72,5 @@ img {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
 }
  
+
 
